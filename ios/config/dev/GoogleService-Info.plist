@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>258884081867-jga8qlkhm6ipaj3uqgs9sqt3sii3bs1i.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.258884081867-jga8qlkhm6ipaj3uqgs9sqt3sii3bs1i</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCr9ubOoT9tfkSCuc7wE-wr1UX2nHe0xZw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>258884081867</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.flavorsConfigurationPractice.dev</string>
+	<key>PROJECT_ID</key>
+	<string>flavor-practice-dev</string>
+	<key>STORAGE_BUCKET</key>
+	<string>flavor-practice-dev.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:258884081867:ios:547dd82a32c859027ee34e</string>
+</dict>
+</plist>

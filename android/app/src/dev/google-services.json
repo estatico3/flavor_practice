@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "258884081867",
+    "project_id": "flavor-practice-dev",
+    "storage_bucket": "flavor-practice-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258884081867:android:3825d8c538b2ff9f7ee34e",
+        "android_client_info": {
+          "package_name": "com.example.flavors_configuration_practice.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258884081867-196a0fk5gbr1olej4jpao6d1n6283b15.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ0UsLaFH4JhdB6-aYR7LeOpof3-kDKeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "258884081867-196a0fk5gbr1olej4jpao6d1n6283b15.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
